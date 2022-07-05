@@ -1,0 +1,70 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(87 87 87);
+    padding: 0%;
+    margin: 0;
+}
+
+.initiation {
+    font-weight: 600;
+    color: rgb(82 82 82)
+}
+
+.yellow-heading {
+    color: hsl(29, 96%, 65%);
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 70px;
+    padding: 5%;
+}
+
+.half-width {
+    width: 60%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+#mid-centered {
+    margin-top: 120px;
+}
+
+.link-button {
+    background-image: linear-gradient(rgb(251, 162, 79), rgb(254, 227, 227));
+    text-decoration: none;
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 25%;
+}
+
+h2 {
+    color: rgb(70 70 70);
+    font-weight: bolder;
+}
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+#about-me-text {
+    margin-top: 150px;
+    margin-bottom: 70px;
+}
+
+.my-recipies {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 70px;
+}
